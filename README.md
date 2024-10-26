@@ -10,10 +10,8 @@ JavaScript: For client-side scripting and handling real-time data updates.
 
 # Project Structure
 
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-└── script.js        # JavaScript file for functionality
+![Screenshot 2024-10-26 102443](https://github.com/user-attachments/assets/cd8f1c38-20c1-46fa-b950-bab91a3a53d0)
+
 
 # Features
 
